@@ -1,0 +1,29 @@
+body {
+    font-family: 'Tamoto', sans-serif;
+    font-size: 19px; /* Agregando el tamaño de fuente, junto con el formato solicitado */
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    font-size: 16px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+button {
+    background-color: yellow;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
